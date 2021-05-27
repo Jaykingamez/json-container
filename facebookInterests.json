@@ -9,7 +9,6 @@
 		"Social media", "Social media marketing", "Web design", "Web development", "Web hosting"],
 		"Personal finance": ["Credit cards", "Insurance", "Investment", "Mortgage loans"]
 	},
-	
 	"Entertainment" : {
 		"Games" : ["Action games", "Board games", "Browser games", "Card games", "Casino games",
 		"First-person shooter games", "Gambling", "Massively multiplayer online games", "Massively multiplayer online role-playing games",
@@ -46,7 +45,7 @@
 		"Home and garden": ["Do it yourself (DIY)", "Furniture", "Gardening", "Home Appliances", "Home improvement"],
 		"Pets": ["Birds", "Cats", "Dogs", "Fish", "Horses", "Pet food", "Rabbits", "Reptiles"],
 		"Politics and social issues": ["Charity and causes", "Community issues", "Environmentalism", "Law", "Military", "Politics",
-		"Religion", "Sustainability", "Veterans", "Volunteering"]
+		"Religion", "Sustainability", "Veterans", "Volunteering"],
 		"Travel": ["Adventure travel", "Air travel", "Beaches", "Car rentals", "Cruises", "Ecotourism", "Hotels", "Lakes",
 		"Mountains", "Nature", "Theme parks", "Tourism", "Vacations"],
 		"Vehicles": ["Automobiles", "Boats", "Electric vehicle", "Hybrids", "Minivans", "Motorcycles", "RVs", "SUVs", "Scooters",
@@ -71,7 +70,4 @@
 		"Projectors", "Smartphones", "Televisions"]
 		
 	}
-	
-	
-	
 }
